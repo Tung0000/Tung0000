@@ -4,8 +4,7 @@ Hi 👋 My name is Tung0000
 Engineer Computer
 -----------------
 ![](https://komarev.com/ghpvc/?username=Tung0000&color=green)
-![](https://komarev.com/ghpvc/?username=Tung0000&color=red)
-![](https://komarev.com/ghpvc/?username=Tung0000&color=yellow)
+
 
 <img
 src="https://static.wikia.nocookie.net/leagueoflegends/images/a/a0/Caitlyn_Arcane_3_Render.png/revision/latest?cb=20220215033933" width="150" height="150" />
