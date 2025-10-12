@@ -1,25 +1,37 @@
 Hi 👋 My name is Tung0000
 =========================
 
-Engineer Computer
------------------
-![](https://komarev.com/ghpvc/?username=Tung0000&color=green)
+### Computer Engineer | AI & Deep Learning Enthusiast
 
+I'm a computer engineer specializing in **AI and Deep Learning**. My work primarily involves building and optimizing models for computer vision tasks, with a strong focus on object detection and image classification.
 
-<img
-src="https://static.wikia.nocookie.net/leagueoflegends/images/a/a0/Caitlyn_Arcane_3_Render.png/revision/latest?cb=20220215033933" width="150" height="150" />
+---
 
-I did Ai and Deepleaning
+### 🚀 Featured Projects
 
-* 🖥️  See my portfolio at [This link](http:///github.com/Tung0000?tab=repositories)
-* ✉️  You can contact me at [Facbook : Apiarak Ketrueng]
+#### **Fruit Detection with YOLOv8s**
+This project uses the YOLOv8s model to accurately detect and classify various types of fruits in images. It demonstrates practical application of a lightweight yet powerful object detection model.
+- [**View Project**](https://github.com/Tung0000/Detection_CS_Fruit_Yolov8s.git)
+
+#### **CNN vs. Transfer Learning**
+A comprehensive study comparing the performance of a custom-built Convolutional Neural Network (CNN) against popular pre-trained models like VGG16 and ResNet50. This project explores the advantages and disadvantages of using transfer learning for image classification.
+- [**View Project**](https://github.com/Tung0000/Dfferent_transfer-model-and-cnn.git)
+
+---
+
+### 💻 My Skills
 
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a>
 </p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/Tung0000" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
-<a href="https://www.github.com/Tung0000" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Tung0000?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+### 🔗 Connect with me
+
+* **Facebook:** Apiarak Ketrueng
+* **GitHub:** [github.com/Tung0000](https://github.com/Tung0000)
